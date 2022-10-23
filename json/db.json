@@ -1,0 +1,52 @@
+{
+  "categorias": [
+    {
+      "categoria": "informatica",
+      "id": 1
+    },
+    {
+      "categoria": "servico tecnico",
+      "id": 2
+    },
+    {
+      "categoria": "decoracion",
+      "id": 3
+    },
+    {
+      "categoria": "Limpieza",
+      "id": 4
+    }
+  ],
+  "productos": [
+    {
+      "producto": "computadora",
+      "precio": "1234",
+      "categoriaId": 1,
+      "id": 1
+    },
+    {
+      "producto": "escoba",
+      "precio": "12",
+      "categoriaId": 4,
+      "id": 2
+    },
+    {
+      "producto": "mouse",
+      "precio": "123",
+      "categoriaId": 1,
+      "id": 3
+    },
+    {
+      "producto": "martillo",
+      "precio": "42",
+      "categoriaId": 2,
+      "id": 4
+    },
+    {
+      "producto": "flores",
+      "precio": "31",
+      "categoriaId": 3,
+      "id": 5
+    }
+  ]
+}
